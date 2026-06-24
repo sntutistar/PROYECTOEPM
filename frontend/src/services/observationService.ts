@@ -1,5 +1,5 @@
 const API =
-    "http://localhost:3000/api/observations";
+    "https://epmbackend-production.up.railway.app/api/observations";
 
 export async function getObservations(
     studentId: string

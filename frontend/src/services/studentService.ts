@@ -1,5 +1,5 @@
 const API =
-    "http://localhost:3000/api/students";
+    "https://epmbackend-production.up.railway.app/api/students";
 
 export async function getStudents() {
     const response = await fetch(API);

@@ -1,5 +1,5 @@
 const API =
-    "http://localhost:3000/api/ai";
+    "https://epmbackend-production.up.railway.app/api/ai";
 
 export async function generateRecommendation(
     data: any

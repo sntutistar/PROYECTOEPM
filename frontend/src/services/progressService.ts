@@ -1,5 +1,5 @@
 const API =
-    "http://localhost:3000/api/progress";
+    "https://epmbackend-production.up.railway.app/api/progress";
 
 export async function getProgress(
     studentId: string
