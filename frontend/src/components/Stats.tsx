@@ -1,6 +1,6 @@
 function Stats() {
     return (
-        <section className="py-24 px-10 bg-gradient-to-r from-blue-500 to-green-400 text-white">
+        <section className="py-24 px-10 bg-linear-to-r from-blue-500 to-green-400 text-white">
 
             <div className="max-w-6xl mx-auto grid md:grid-cols-4 gap-10 text-center">
 

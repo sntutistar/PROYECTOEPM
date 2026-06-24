@@ -60,7 +60,7 @@ function Login() {
             <img
               src={card_informativa}
               alt="EPM"
-              className="w-[350px] drop-shadow-2xl"
+              className="w-87.5 drop-shadow-2xl"
             />
 
             <p className="mt-8 text-xl text-gray-600 text-center max-w-xl leading-relaxed">

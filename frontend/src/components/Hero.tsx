@@ -2,7 +2,7 @@ import logo from "../assets/logo_solo.png";
 
 function Hero() {
     return (
-        <section className="min-h-screen bg-gradient-to-br from-[#EEF5FF] to-[#F8FCFF] pt-40 px-10">
+        <section className="min-h-screen bg-linear-to-r from-[#EEF5FF] to-[#F8FCFF] pt-40 px-10">
 
             <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-20 items-center">
 
@@ -17,7 +17,7 @@ function Hero() {
 
                         Educación inclusiva impulsada por
 
-                        <span className="block bg-gradient-to-r from-blue-500 to-green-400 bg-clip-text text-transparent">
+                        <span className="block bg-linear-to-r from-blue-500 to-green-400 bg-clip-text text-transparent">
                             inteligencia artificial
                         </span>
                     </h1>
@@ -84,7 +84,7 @@ function Hero() {
                         <img
                             src={logo}
                             alt="EPM"
-                            className="relative w-[500px] drop-shadow-2xl"
+                            className="relative w-125 drop-shadow-2xl"
                         />
 
                     </div>
