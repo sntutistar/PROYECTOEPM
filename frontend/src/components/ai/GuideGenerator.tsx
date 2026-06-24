@@ -26,7 +26,7 @@ function GuideGenerator({
 
             const response =
                 await fetch(
-                    "http://localhost:3000/api/guide",
+                    "https://epmbackend-production.up.railway.app/api/guide",
                     {
                         method: "POST",
                         headers: {
