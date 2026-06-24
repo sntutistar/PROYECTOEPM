@@ -9,7 +9,7 @@ export function middleware(
 
     response.headers.set(
         "Access-Control-Allow-Origin",
-        "http://localhost:5173"
+        "https://proyectoepm.vercel.app"
     );
 
     response.headers.set(
