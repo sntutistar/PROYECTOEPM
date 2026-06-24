@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@next/eslint-plugin-next": "^16.2.9",
     "bcryptjs": "^3.0.3",
     "jsonwebtoken": "^9.0.3",
     "jspdf": "^4.2.1",
@@ -29,8 +30,5 @@
     "eslint-config-next": "^16.2.9",
     "tailwindcss": "^4",
     "typescript": "^5"
-  },
-  "overrides": {
-    "picomatch": "^4.0.4"
   }
 }
