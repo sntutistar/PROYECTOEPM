@@ -1,17 +1,9 @@
-﻿Para que el programa corra correctamente desde visual estudio code se deben seguir los siguiente pasos
+﻿1. El programa ya esta en despliegue solamente es ingresar al siguiente enlace
 
-1. descargar y abrir la carpeta epm-project en visual estudio code
+2. https://proyectoepm.vercel.app/ 
 
-2. abrir la terminal desde visual estudio code donde aparece algo como PS C:\Users\sntut\Desktop\TFM\epm-project> 
+3. presionamos en iniciar sesion e ingresamos las siguientes credenciales 
 
-3. se debe seguir los dos siguientes comandos tanto para el frontend como para el backend
+4. usuario: docente@epm.com
 
-4. para el backend vamos a escribir (cd backend) y para el frontend (cd frontend)
-
-5. vamos a escribir las dos siguientes lineas en cada carpeta cuando ya este abierta (npm install) 
-
-6. debido a que no podemos compartir la contraseña de open_ia derectamente a git vamos a ingresar a la carpeta del backend y vamos a buscar un archivo llamado .env.local y vamos a copiar las siguientes lineas de codigo, de igual forma se las compartiremos al chat de la activida unir
-
-7. una vez ya se tenga todos los pasos anteriores correctos vamos escribir en la terminar (npm run dev) en cada una de las carpetas en terminales diferentes 
-
-8. ya se podra ingresar al navegador con la url que nos comparte al correr el programa
+5. contraseña: 123456
